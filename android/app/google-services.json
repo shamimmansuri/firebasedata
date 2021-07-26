@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300811914852",
+    "firebase_url": "https://fir-data-32b7a-default-rtdb.firebaseio.com",
+    "project_id": "fir-data-32b7a",
+    "storage_bucket": "fir-data-32b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300811914852:android:03e6d6e529d8d730389971",
+        "android_client_info": {
+          "package_name": "com.firebasedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300811914852-skuan5eoipbdg2qva68k20btthdtrfsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcMaCpY4jliVrHzcjokgQ33CxjeOWou9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300811914852-skuan5eoipbdg2qva68k20btthdtrfsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
